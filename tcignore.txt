@@ -1,0 +1,18 @@
+c:\Documents and Settings
+c:\Boot*
+c:\DsoFile
+c:\ProgramData
+c:\PerfLogs
+c:\$Windows.~BT
+c:\Recovery
+d:\ProgramData\
+d:\OneDriveTemp
+d:\OneDrive
+d:\Musica
+d:\Imagenes
+swapfile.sys
+pagefile.sys
+$Recycle.Bin
+found.000
+System Volume Information
+ntuser.dat*
