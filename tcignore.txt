@@ -4,6 +4,7 @@ c:\DsoFile
 c:\ProgramData
 c:\PerfLogs
 c:\$Windows.~BT
+c:\$Windows.~WS
 c:\Recovery
 d:\ProgramData\
 d:\OneDriveTemp
