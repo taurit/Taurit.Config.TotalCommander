@@ -17,3 +17,8 @@ The settings include:
 
 You can find the description of the schema in TotalCommander's wiki article on [Wincmd.ini](http://www.ghisler.ch/wiki/index.php/Wincmd.ini).
 
+## Screenshot
+
+This is how the list of files looks like with this configuration:
+
+![TotalCommanderConfig: custom colors defined for file extensions](https://github.com/taurit/TotalCommanderConfig/blob/master/TotalCommanderConfig.png)
