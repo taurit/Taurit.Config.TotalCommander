@@ -1,19 +1,44 @@
-c:\Documents and Settings
+﻿c:\Documents and Settings
 c:\Boot*
 c:\DsoFile
 c:\ProgramData
 c:\PerfLogs
-c:\$Windows.~BT
-c:\$Windows.~WS
+c:\Windows10Upgrade
+c:\ESD
+c:\$*
 c:\Recovery
 d:\ProgramData\
 d:\OneDriveTemp
-d:\OneDrive
-d:\Musica
-d:\Imagenes
+x:\OneDrive\Music
+d:\OneDrive\Movies
+x:\OneDrive\Movies
+d:\OneDrive\Ebooks
+d:\OneDrive\Encrypted
+d:\OneDrive\.849*
+d:\OneDrive\Documents
+d:\OneDrive\Pictures\Obrazy Bing\
+d:\OneDrive\Pictures\Obrazy Windows Spotlight\
+d:\OneDrive\Pictures\Saved Pictures\
+d:\OneDrive\Pictures\Zrzuty ekranu\
+d:\OneDrive\Załączniki e-mail
+x:\OneDrive\Załączniki e-mail
 swapfile.sys
 pagefile.sys
 $Recycle.Bin
 found.000
 System Volume Information
 ntuser.dat*
+d:\Descargas\desktop.ini
+c:\MSOCache
+c:\Config.Msi
+c:\Intel
+c:\inetpub
+c:\Symbols
+desktop.ini
+f:\ResharperSolutionCaches\
+f:\Temp
+f:\Tmp
+f:\WindowsTemp
+f:\WindowsSearchIndex
+f:\SymbolsCache
+f:\boot*
