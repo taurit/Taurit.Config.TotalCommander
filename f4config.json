@@ -1,0 +1,12 @@
+{
+  "EditorConfigurations": [
+    {
+      "EditorPath": "c:\\Program Files (x86)\\Microsoft VS Code\\Code.exe",
+      "ExtensionList": "json;xml;html;htm;md"
+    },
+    {
+      "EditorPath": "c:\\Program Files\\paint.net\\PaintDotNet.exe",
+      "ExtensionList": "png;bmp;jpg;jpeg;gif"
+    }
+  ]
+}
