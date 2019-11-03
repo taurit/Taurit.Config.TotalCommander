@@ -1,12 +1,39 @@
 {
+  "DefaultEditor": {
+    "EditorPath": "d:\\ProgramData\\Tools\\Notepad2-mod\\Notepad2.exe"
+  },
   "EditorConfigurations": [
     {
-      "EditorPath": "c:\\Program Files (x86)\\Microsoft VS Code\\Code.exe",
-      "ExtensionList": "json;xml;html;htm;md"
+      "EditorPath": "c:\\Users\\windo\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+      "ExtensionList": "json;xml;html;htm;md;js;ts;cs;Dockerfile;yml;yaml"
     },
     {
       "EditorPath": "c:\\Program Files\\paint.net\\PaintDotNet.exe",
-      "ExtensionList": "png;bmp;jpg;jpeg;gif"
+      "ExtensionList": "png;bmp;jpg;jpeg;gif;pdn"
+    },
+    {
+      "EditorPath": "d:\\ProgramData\\Tools\\IrfanView\\i_view64.exe",
+      "ExtensionList": "jp2;webp"
+    },
+    {
+      "EditorPath": "c:\\Program Files (x86)\\Audacity\\audacity.exe",
+      "ExtensionList": "mp3;wav;aup"    
+    },
+    {
+      "EditorPath": "c:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+      "ExtensionList": "doc;docx"
+    },
+    {
+      "EditorPath": "d:\\programdata\\Tools\\csvfileview\\CSVFileView.exe",
+      "ExtensionList": "csv"
+    },
+    {
+      "EditorPath": "C:\\Users\\windo\\AppData\\Local\\JetBrains\\Installations\\dotPeek182\\dotPeek64.exe",
+      "ExtensionList": "exe;dll"
+    },
+    {
+      "EditorPath": "c:\\Program Files\\7-Zip\\7zFM.exe",
+      "ExtensionList": "zip;7z"
     }
   ]
 }
