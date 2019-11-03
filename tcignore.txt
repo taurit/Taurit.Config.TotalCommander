@@ -1,44 +1,48 @@
-﻿c:\Documents and Settings
+c:\Documents and Settings
 c:\Boot*
-c:\DsoFile
 c:\ProgramData
 c:\PerfLogs
-c:\Windows10Upgrade
 c:\ESD
 c:\$*
+c:\MSI\
 c:\Recovery
 d:\ProgramData\
+d:\OneDrive
 d:\OneDriveTemp
-x:\OneDrive\Music
+d:\OneDrive\Desktop
+d:\OneDrive\Music
 d:\OneDrive\Movies
-x:\OneDrive\Movies
-d:\OneDrive\Ebooks
 d:\OneDrive\Encrypted
 d:\OneDrive\.849*
 d:\OneDrive\Documents
 d:\OneDrive\Pictures\Obrazy Bing\
-d:\OneDrive\Pictures\Obrazy Windows Spotlight\
 d:\OneDrive\Pictures\Saved Pictures\
 d:\OneDrive\Pictures\Zrzuty ekranu\
-d:\OneDrive\Załączniki e-mail
-x:\OneDrive\Załączniki e-mail
 swapfile.sys
 pagefile.sys
 $Recycle.Bin
 found.000
 System Volume Information
 ntuser.dat*
-d:\Descargas\desktop.ini
-c:\MSOCache
 c:\Config.Msi
-c:\Intel
-c:\inetpub
-c:\Symbols
 desktop.ini
-f:\ResharperSolutionCaches\
-f:\Temp
-f:\Tmp
-f:\WindowsTemp
-f:\WindowsSearchIndex
-f:\SymbolsCache
-f:\boot*
+d:\Projekty\Taurit.Websites.Blog\.git\
+d:\Projekty\Taurit.Websites.Blog\.vs\
+d:\Projekty\Taurit.Websites.Blog\node_modules\
+d:\Projekty\Taurit.Websites.Blog\packages\
+d:\Projekty\Taurit.Websites.Blog\config.wyam.dll
+d:\Projekty\Taurit.Websites.Blog\config.wyam.hash
+d:\Projekty\Taurit.Websites.Blog\package-lock.json
+d:\Projekty\Taurit.Websites.Blog\Taurit.Blog.sln.DotSettings
+d:\Projekty\Taurit.Websites.Blog\Taurit.Blog.sln.DotSettings.user
+d:\Projekty\Taurit.Websites.Blog\Taurit.Blog.v3.ncrunchsolution.user
+d:\OneDrive\Pictures\Camera Roll\
+d:\OneDrive\Pictures\! info.txt
+c:\Windows
+d:\OneDrive - Demant Group Services\
+d:\Music
+d:\Movies
+c:\AMD
+c:\OneDriveTemp
+config.wyam.dll
+config.wyam.hash
