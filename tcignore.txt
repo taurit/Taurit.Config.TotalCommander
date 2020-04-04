@@ -8,6 +8,7 @@ c:\MSI\
 c:\Recovery
 d:\ProgramData\
 d:\OneDrive
+c:\Python27
 d:\OneDriveTemp
 d:\OneDrive\Desktop
 d:\OneDrive\Music
@@ -39,7 +40,6 @@ d:\Projekty\Taurit.Websites.Blog\Taurit.Blog.v3.ncrunchsolution.user
 d:\OneDrive\Pictures\Camera Roll\
 d:\OneDrive\Pictures\! info.txt
 c:\Windows
-d:\OneDrive - Demant Group Services\
 d:\Music
 d:\Movies
 c:\AMD
