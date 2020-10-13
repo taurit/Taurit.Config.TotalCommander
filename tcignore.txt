@@ -9,6 +9,7 @@ c:\Recovery
 d:\ProgramData\
 d:\OneDrive
 c:\Python27
+c:\Python38
 d:\OneDriveTemp
 d:\OneDrive\Desktop
 d:\OneDrive\Music
@@ -44,5 +45,6 @@ d:\Music
 d:\Movies
 c:\AMD
 c:\OneDriveTemp
-config.wyam.dll
-config.wyam.hash
+d:\Projekty\Taurit.Websites.JakPrzytyc\.cache\
+d:\Projekty\Taurit.Websites.JakPrzytyc\yarn.lock
+MQRl9PsysypgiEOxFtnDdVemfQ=

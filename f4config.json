@@ -5,11 +5,15 @@
   "EditorConfigurations": [
     {
       "EditorPath": "c:\\Users\\windo\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
-      "ExtensionList": "json;jsonc;xml;html;htm;md;js;ts;cs;Dockerfile;yml;yaml;http;sh;dockerignore;gitattributes;env;editorconfig;ps1;cmd;sh"
+      "ExtensionList": "json;jsonc;xml;html;htm;md;js;ts;cs;Dockerfile;yml;yaml;http;sh;dockerignore;gitattributes;env;editorconfig;ps1;cmd;sh;cshtml"
     },
     {
       "EditorPath": "c:\\Program Files\\paint.net\\PaintDotNet.exe",
-      "ExtensionList": "png;bmp;jpg;jpeg;gif;pdn"
+      "ExtensionList": "pdn"
+    },
+    {
+      "EditorPath": "C:\\Program Files\\Affinity\\Photo\\Photo.exe",
+      "ExtensionList": "png;bmp;jpg;jpeg;gif"
     },
     {
       "EditorPath": "d:\\ProgramData\\Tools\\IrfanView\\i_view64.exe",
@@ -17,7 +21,7 @@
     },
     {
       "EditorPath": "c:\\Program Files (x86)\\Audacity\\audacity.exe",
-      "ExtensionList": "mp3;wav;aup"    
+      "ExtensionList": "mp3;wav;aup"
     },
     {
       "EditorPath": "c:\\Program Files (x86)\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
