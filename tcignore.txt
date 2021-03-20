@@ -42,9 +42,9 @@ d:\OneDrive\Pictures\Camera Roll\
 d:\OneDrive\Pictures\! info.txt
 c:\Windows
 d:\Music
-d:\Movies
 c:\AMD
 c:\OneDriveTemp
 d:\Projekty\Taurit.Websites.JakPrzytyc\.cache\
 d:\Projekty\Taurit.Websites.JakPrzytyc\yarn.lock
 MQRl9PsysypgiEOxFtnDdVemfQ=
+d:\Inbox\.nomedia

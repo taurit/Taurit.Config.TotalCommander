@@ -5,7 +5,7 @@
   "EditorConfigurations": [
     {
       "EditorPath": "c:\\Users\\windo\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
-      "ExtensionList": "json;jsonc;xml;html;htm;md;js;ts;cs;Dockerfile;yml;yaml;http;sh;dockerignore;gitattributes;env;editorconfig;ps1;cmd;sh;cshtml"
+      "ExtensionList": "json;jsonc;xml;html;htm;md;js;ts;cs;Dockerfile;yml;yaml;http;sh;dockerignore;gitattributes;env;editorconfig;ps1;cmd;sh;cshtml;webmanifest;eslintrc"
     },
     {
       "EditorPath": "c:\\Program Files\\paint.net\\PaintDotNet.exe",
